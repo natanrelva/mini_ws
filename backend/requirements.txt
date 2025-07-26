@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+python-socketio[asgi_client]==5.8.0
+python-engineio==4.8.0
